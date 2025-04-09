@@ -1,0 +1,11 @@
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+
+    <h3>Upload Images</h3>
+    <input type="file" name="images" multiple accept="image/*" required>
+
+    <h3>Upload Background Music</h3>
+    {{ music_form.music }}
+
+    <button type="submit">Generate Video</button>
+</form>
