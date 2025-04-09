@@ -55,7 +55,7 @@ snap2reel/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/snap2reel.git
+git clone https://github.com/obaidullah72/snap2reel.git
 cd snap2reel
 ```
 
@@ -131,10 +131,28 @@ pip install django moviepy ffmpeg-python pillow pydub django-storages
 ## 🧑‍💻 Author
 
 Built with ❤️ by [Your Name]  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@obaidullah72](https://github.com/obaidullah72)
 
 ---
 
-## 📄 License
+## 🤝 Contributions
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome!  
+Fork the repo and submit a PR with your improvements.
+
+---
+
+## 📜 License
+
+Licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out for any questions or suggestions:  
+
+- **GitHub**: [obaidullah72](https://github.com/obaidullah72)  
+- **LinkedIn**: [obaidullah72](https://www.linkedin.com/in/obaidullah72/)  
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=obaidullah72&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
